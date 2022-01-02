@@ -1,0 +1,29 @@
+baseURL = "zhiyunrichardpeng.github.io"
+defaultContentLanguage = "en"
+languageCode = "en"
+title = "Richard Peng"
+theme = "LoveIt"
+
+[params]
+    version = "0.2.X"
+
+[params.header]
+    [params.header.title]
+    pre = ""
+
+[menu]
+    [[menu.main]]
+        identifier = "github"
+        pre = "<i class='fab fa-github fa-fw'></i>"
+        post = ""
+        name = ""
+        url = "https://github.com/zhiyunrichardpeng"
+        title = "GitHub"
+        weight = 6
+
+[markup]
+    [markup.highlight]
+        noClasses = false
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe = true
