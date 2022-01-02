@@ -12,7 +12,11 @@ math:
 # Richard Peng
 
 ## Education
-I am a phd student in SFU. 1024
+I am a phd student in [SFU](https://www.sfu.ca/). 1024  
 
 ## Experience
-I am a phd student in SFU. 2048
+I am a phd student in SFU. 2048  
+
+## MISC
+Happy 2021  
+Happy 2022  
