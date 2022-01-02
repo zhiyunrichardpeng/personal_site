@@ -10,12 +10,13 @@ math:
 ---
 
 # Richard Peng
+<img style="float: right;margin:-40px 20px" src="maple leaf.png" width="150" height="200" />  
 
 ## Education
-I am a phd student in [SFU](https://www.sfu.ca/). 1024  
+I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/).  
 
 ## Experience
-I am a phd student in SFU. 2048  
+I am a phd student in CS. I am a phd student in CS. I am a phd student in CS. I am a phd student in CS. I am a phd student in CS. I am a phd student in CS.  
 
 ## MISC
 Happy 2021  
