@@ -9,15 +9,12 @@ math:
   enable: true
 ---
 
-# Richard Peng
+# Zhiyun (Richard) Peng
 <img style="float: right;margin:-40px 20px" src="maple leaf.png" width="150" height="200" />  
 
-## Education
-I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/). I am a phd student at [SFU](https://www.sfu.ca/).  
+## About me
+I am a second year Phd student in Simon Fraser University (SFU) in data mining lab.
 
-## Experience
-I am a phd student in CS. I am a phd student in CS. I am a phd student in CS. I am a phd student in CS. I am a phd student in CS. I am a phd student in CS.  
-
-## MISC
-Happy 2021  
-Happy 2022.1  
+## CV
+This is my [CV](https://www.cnblogs.com/richardzhiyunpeng/p/14857389.html).
+This is my [Google scholar website](https://scholar.google.com/citations?user=iv7O2RAAAAAJ&hl=en&oi=ao).
