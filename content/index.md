@@ -10,10 +10,10 @@ math:
 ---
 
 # Zhiyun (Richard) Peng
-<img style="float: right;margin:-40px 20px" src="maple leaf.png" width="150" height="200" />  
+<img style="float: right;margin:-40px 20px" src="maple leaf.jpg" width="150" height="200" />  
 
 ## About me
-I am a second year Phd student in Simon Fraser University (SFU) in data mining lab.
+I am a second year Phd student in Simon Fraser University (SFU) in database and data mining laboratory.
 
 ## CV
 This is my [CV](https://www.cnblogs.com/richardzhiyunpeng/p/14857389.html).
