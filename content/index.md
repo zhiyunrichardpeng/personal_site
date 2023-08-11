@@ -13,7 +13,7 @@ math:
 <img style="float: right;margin:-40px 20px" src="maple leaf.jpg" width="150" height="200" />  
 
 ## About me
-I am a third year computer science Ph.D. student in Simon Fraser University (SFU). My research interest includes: Computer graphics, facial muscle modeling and simulation, renewable energy forecasting. I'm a teaching assistant and research assistant. I graduated from Chongqing University with a Master of Engineering in Electrical and Computer Engineering in 2020. My homwtown is Yichun, Jiangxi Province, China. My hobbie are fitness, playing clarinet in orchestra, tennis, cycling, running, reading, cooking. I speak English (fluent), Mandarin (native), Cantonese (beginner), Jananese (beginner), and French (beginner). I prefer to be called as "Richard" in public occation; and some Chinese friend prefer to call me "Zhiyun", which is very friendly and kind as countrymen.
+I am a third year computer science PhD student in Simon Fraser University (SFU). My research interest includes: Computer graphics, facial muscle modeling and simulation, renewable energy forecasting. I'm a teaching assistant and research assistant. I graduated from Chongqing University with a Master of Engineering in Electrical and Computer Engineering in 2020. My homwtown is Yichun, Jiangxi Province, China. My hobbie are fitness, playing clarinet in orchestra, tennis, cycling, running, reading, cooking. I speak English (fluent), Mandarin (native), Cantonese (beginner), Jananese (beginner), and French (beginner). I prefer to be called as "Richard" in public occation; and some Chinese friend prefer to call me "Zhiyun", which is very friendly and kind as countrymen.
 
 ## CV
 My [Linkedin](https://www.linkedin.com/in/zhiyun-richard-peng-585931150/).
